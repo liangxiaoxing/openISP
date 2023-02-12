@@ -16,7 +16,7 @@ from model.bnf import BNF
 # from model.bcc import BCC
 # from model.hsc import HSC
 from model.nlm import NLM
-
+##xiaoxing.liang  add
 raw_path = './raw/test.RAW'
 # decomment for testing
 # config_path = './config/config.csv' 
